@@ -1,0 +1,48 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À Propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Idées → Runtime."
+  },
+  "services": {
+    "title": "Nos Services",
+    "web": "Sites Web",
+    "mobile": "Applications Mobiles",
+    "automation": "Automatisation",
+    "ai": "IA & Données",
+    "design": "Design Graphique",
+    "custom": "Logiciel Sur Mesure"
+  },
+  "about": {
+    "title": "À Propos",
+    "mission": "Chez HexaFlow, nous transformons des idées complexes en solutions logicielles élégantes et efficaces. Notre mission est de permettre aux entreprises de se développer grâce à la technologie qui stimule la croissance et l'innovation.",
+    "process": {
+      "title": "Notre Processus",
+      "discover": "Découvrir",
+      "design": "Concevoir",
+      "build": "Construire",
+      "iterate": "Itérer",
+      "discoverDesc": "Nous commençons par comprendre vos besoins et défis.",
+      "designDesc": "Nous créons des plans détaillés et des prototypes.",
+      "buildDesc": "Nous développons des solutions robustes et évolutives.",
+      "iterateDesc": "Nous affinons et améliorons en fonction des retours."
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Envoyer",
+    "success": "Message envoyé avec succès!",
+    "error": "Une erreur s'est produite lors de l'envoi de votre message. Veuillez réessayer.",
+    "emailFallback": "Ou envoyez-nous un email directement"
+  },
+  "footer": {
+    "copyright": "© 2024 HexaFlow. Tous droits réservés."
+  }
+}

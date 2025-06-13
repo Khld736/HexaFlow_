@@ -1,0 +1,48 @@
+{
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Ideas → Runtime."
+  },
+  "services": {
+    "title": "Our Services",
+    "web": "Web Sites",
+    "mobile": "Mobile Apps",
+    "automation": "Automation",
+    "ai": "AI & Data",
+    "design": "Graphic Design",
+    "custom": "Custom Software"
+  },
+  "about": {
+    "title": "About Us",
+    "mission": "At HexaFlow, we transform complex ideas into elegant, efficient software solutions. Our mission is to empower businesses with technology that drives growth and innovation.",
+    "process": {
+      "title": "Our Process",
+      "discover": "Discover",
+      "design": "Design",
+      "build": "Build",
+      "iterate": "Iterate",
+      "discoverDesc": "We start by understanding your needs and challenges.",
+      "designDesc": "We create detailed plans and prototypes.",
+      "buildDesc": "We develop robust, scalable solutions.",
+      "iterateDesc": "We refine and improve based on feedback."
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "There was an error sending your message. Please try again.",
+    "emailFallback": "Or email us directly"
+  },
+  "footer": {
+    "copyright": "© 2024 HexaFlow. All rights reserved."
+  }
+}
